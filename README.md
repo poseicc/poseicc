@@ -2,7 +2,7 @@
 
 # Selam, ben Poseic 👋
 
-**15 yaşında yazılım geliştiricisi & içerik üreticisi**  
+**16 yaşında yazılım geliştiricisi & içerik üreticisi**  
 *Discord botları, Python otomasyonları, Minecraft sistemleri ve web projeleri üzerine çalışıyorum.*
 
 ---
