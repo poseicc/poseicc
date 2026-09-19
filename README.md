@@ -1,10 +1,13 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./hero-banner.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./hero-banner.svg" />
-  <img src="./hero-banner.svg" alt="Poseic - Developer, Builder, Creator" width="100%" />
-</picture>
+<h1>
+  <span style="letter-spacing: 8px;">P O S E I C</span>
+</h1>
+
+<p>
+  <strong>Young builder turning ideas into working systems.</strong><br/>
+  <code>Discord.js v14</code> &nbsp;•&nbsp; <code>Python Automation</code> &nbsp;•&nbsp; <code>Linux Infrastructure</code> &nbsp;•&nbsp; <code>Web Engineering</code>
+</p>
 
 <br/>
 
