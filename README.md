@@ -166,19 +166,9 @@
     <img src="https://img.shields.io/badge/COMMUNITY-ProjectSQL-06070a?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=0b0e14&color=1e293b" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/988829353297195089">
-    <img src="https://img.shields.io/badge/DISCORD-DM-06070a?style=for-the-badge&logo=discord&logoColor=10b981&labelColor=0b0e14&color=1e293b" alt="Discord DM" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@Poseic">
     <img src="https://img.shields.io/badge/YOUTUBE-@Poseic-06070a?style=for-the-badge&logo=youtube&logoColor=ff0000&labelColor=0b0e14&color=1e293b" alt="YouTube" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:poseicc@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-poseicc@gmail.com-06070a?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b0e14&color=1e293b" alt="Email" />
-  </a>
-</p>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06070a,50:0e1320,100:4f46e5&height=80&section=footer" width="100%" alt="" />
