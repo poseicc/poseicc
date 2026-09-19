@@ -1,18 +1,18 @@
 <div align="center">
 
 <h1>
-  <span style="letter-spacing: 8px;">P O S E I C</span>
+  <span style="letter-spacing: 6px;">P O S E I C</span>
 </h1>
 
 <p>
-  <strong>Young builder turning ideas into working systems.</strong><br/>
-  <code>Discord.js v14</code> &nbsp;•&nbsp; <code>Python Automation</code> &nbsp;•&nbsp; <code>Linux Infrastructure</code> &nbsp;•&nbsp; <code>Web Engineering</code>
+  <strong>Fikirleri çalışan sistemlere ve modern web arayüzlerine dönüştüren geliştirici.</strong><br/>
+  <code>Discord.js v14</code> &nbsp;•&nbsp; <code>Python & Otomasyon</code> &nbsp;•&nbsp; <code>Linux Altyapı</code> &nbsp;•&nbsp; <code>Web Mimarisi</code>
 </p>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=818CF8&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+systems+that+run+reliably+24%2F7.;Discord.js+v14+Architecture+%26+Automation;Python+Tooling+%26+Voxel+Experiments;Linux+VDS+Infrastructure+%26+Performance;Turning+ideas+into+production+software." alt="Poseic Typing Indicator" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=818CF8&center=true&vCenter=true&repeat=true&width=580&height=36&lines=7%2F24+kesintisiz+%C3%A7al%C4%B1%C5%9Fan+sistemler+%C3%BCretiyorum.;Discord.js+v14+mimarisi+ve+otomasyon.;Python+ile+arka+plan+ara%C3%A7lar%C4%B1+ve+3D+deneyler.;Linux+VDS+y%C3%B6netimi+ve+performans+ayarlar%C4%B1.;Hafif%2C+h%C4%B1zl%C4%B1+ve+modern+web+aray%C3%BCzleri." alt="Poseic Typing Indicator" />
 </a>
 
 <br/>
@@ -23,14 +23,12 @@
   </a>
   &nbsp;
   <a href="https://discord.gg/sql">
-    <img src="https://img.shields.io/badge/COMMUNITY-discord.gg%2Fsql-090a0f?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=050608&color=1e293b" alt="Discord Server" />
+    <img src="https://img.shields.io/badge/DISCORD-discord.gg%2Fsql-090a0f?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=050608&color=1e293b" alt="Discord" />
   </a>
   &nbsp;
   <a href="https://github.com/poseicc">
     <img src="https://img.shields.io/badge/GITHUB-poseicc-090a0f?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050608&color=1e293b" alt="GitHub" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-SHIPPING_DAILY-090a0f?style=for-the-badge&logo=statuspage&logoColor=10b981&labelColor=050608&color=1e293b" alt="Active Status" />
 </p>
 
 <br/>
@@ -39,75 +37,47 @@
 
 </div>
 
-### `01 // WHO IS POSEIC?`
-
-```
-┌── SYSTEM METRICS ────────────────────────────────────────────────────────┐
-│  HANDLE     : poseicc                STATUS  : ACTIVE                    │
-│  ROLE       : System Builder & Dev   ORIGIN  : Turkey                    │
-│  FOCUS      : Discord • Python • Systems • Infrastructure • Web          │
-│  PHILOSOPHY : "Code until ideas turn into self-sustaining systems."      │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-I am **Poseic** — a 16-year-old software developer and builder focused on architecting resilient Discord bot infrastructures, Python automation frameworks, Minecraft server systems, and clean web interfaces.
-
-Rather than building disposable prototypes, I focus on systems that run continuously:
-- **Resilience over complexity**: Writing code that handles edge-cases, network dips, and API rate limits cleanly.
-- **Low-level curiosity**: Diving into Linux daemons, SSH hardening, and memory profiling instead of relying blindly on abstracted SaaS.
-- **End-to-end execution**: Taking an idea from initial design and logic flow through to production deployment and community usage.
-
-<br/>
-
-<div align="center">
-  <img src="./divider.svg" alt="" width="100%" />
-</div>
-
-### `02 // CORE DOMAINS`
+### `01 // SİSTEM & MİMARİ ODAK`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Discord Systems & Bot Architecture</h4>
-      <p>Building high-concurrency bot infrastructures with Discord.js v14.</p>
+      <h4>🤖 Discord Mimarisi</h4>
       <ul>
-        <li><b>Interactions:</b> Slash command dispatchers, autocomplete handlers, dynamic modals, and button components.</li>
-        <li><b>Safety & Moderation:</b> Real-time anti-spam filters, intelligent word gating, automated sanction chains, and audit logs.</li>
-        <li><b>Lifecycle & State:</b> Persistent role hierarchies, member verification flows, and event-driven state sync.</li>
+        <li>Discord.js v14 etkileşimleri (Slash komutlar, butonlar, modallar).</li>
+        <li>Olay tabanlı (event-driven) durum senkronizasyonu ve loglama.</li>
+        <li>Gerçek zamanlı anti-spam ve otomatik ceza zincirleri.</li>
       </ul>
-      <p><code>Node.js</code> • <code>Discord.js v14</code> • <code>Event Bus</code> • <code>State Sync</code></p>
+      <p><code>Node.js</code> • <code>Discord.js v14</code> • <code>Event Bus</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🐍 Python & System Automation</h4>
-      <p>Tooling, process automations, and graphics experiments.</p>
+      <h4>🐍 Python & Otomasyon</h4>
       <ul>
-        <li><b>Automation:</b> Background daemon scripts, file system monitors, webhook dispatchers, and automated scrapers.</li>
-        <li><b>3D Voxel Engine:</b> Interactive block-world prototype built on Ursina Engine featuring voxel placement, raycasting, and physics.</li>
-        <li><b>APIs & Wrappers:</b> Fast asynchronous endpoints and utility pipelines.</li>
+        <li>Ursina Engine ile 3D voksel blok dünyası prototipi (ışın izleme & fizik).</li>
+        <li>Dosya ve API izleyen arka plan servisleri (daemon workers).</li>
+        <li>Sistem görevleri için asenkron betikler.</li>
       </ul>
-      <p><code>Python 3</code> • <code>Ursina Engine</code> • <code>AsyncIO</code> • <code>APIs</code></p>
+      <p><code>Python 3</code> • <code>Ursina Engine</code> • <code>AsyncIO</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🖥️ Linux Infrastructure & Servers</h4>
-      <p>Managing remote virtual dedicated servers (VDS) for persistent workloads.</p>
+      <h4>🖥️ Linux & Altyapı</h4>
       <ul>
-        <li><b>Environment:</b> Debian / Ubuntu server setup, SSH key security, UFW firewall configuration, and unprivileged user management.</li>
-        <li><b>Reliability:</b> systemd service daemons, auto-restart triggers, log rotation, and swap memory optimization.</li>
-        <li><b>Minecraft Infra:</b> PaperMC / Purpur JVM flag tuning (Aikar's flags), chunk cache optimization, and network latency reduction.</li>
+        <li>Debian / Ubuntu VDS yapılandırması ve SSH güvenlik sertleştirmesi.</li>
+        <li>systemd servis izleme, log yönetimi ve otomatik yeniden başlatma.</li>
+        <li>PaperMC için optimize edilmiş JVM (Aikar's flags) ve ağ ayarları.</li>
       </ul>
-      <p><code>Linux</code> • <code>Bash</code> • <code>systemd</code> • <code>PaperMC</code> • <code>SSH</code></p>
+      <p><code>Linux</code> • <code>Bash</code> • <code>systemd</code> • <code>PaperMC</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Web Engineering & Interfaces</h4>
-      <p>Crafting high-speed, modern web experiences with zero unnecessary weight.</p>
+      <h4>🌐 Web & Frontend</h4>
       <ul>
-        <li><b>Vanilla Precision:</b> Semantic HTML5, modern modular CSS (variables, grid, flexbox), and reactive vanilla JavaScript.</li>
-        <li><b>Personal Hub:</b> <a href="https://www.poseic.xyz">poseic.xyz</a> — Responsive, dark-mode native portfolio and gateway.</li>
-        <li><b>UI Systems:</b> Developer dashboards, clean typography, and accessible navigation.</li>
+        <li>Sıfır gereksiz bağımlılık: Semantik HTML5, modern CSS ve saf JS.</li>
+        <li>Karanlık mod odaklı, duyarlı (responsive) UI bileşenleri.</li>
+        <li>Hızlı yüklenen kişisel platform: <a href="https://www.poseic.xyz">poseic.xyz</a>.</li>
       </ul>
-      <p><code>HTML5</code> • <code>CSS3</code> • <code>JavaScript (ESNext)</code> • <code>Responsive</code></p>
+      <p><code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
@@ -115,37 +85,29 @@ Rather than building disposable prototypes, I focus on systems that run continuo
 <br/>
 
 <div align="center">
-  <img src="divider.svg" alt="" width="100%" />
+  <img src="./divider.svg" alt="" width="100%" />
 </div>
 
-### `03 // TECH STACK`
+### `02 // TEKNOLOJİ YIĞINI`
 
 <div align="center">
 
 <table border="0">
   <tr>
-    <td align="right"><b>Languages</b></td>
-    <td>
-      <a href="#"><img src="https://skillicons.dev/icons?i=js,py,bash,html,css" alt="Languages" /></a>
-    </td>
+    <td align="right"><b>Diller</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,py,bash,html,css" alt="Diller" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Runtimes & Frameworks</b></td>
-    <td>
-      <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,discordjs" alt="Runtimes" /></a>
-    </td>
+    <td align="right"><b>Çatı & Kütüphane</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,discordjs" alt="Runtimes" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Systems & Operations</b></td>
-    <td>
-      <a href="#"><img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github" alt="Systems" /></a>
-    </td>
+    <td align="right"><b>Altyapı & Sistem</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github" alt="Sistemler" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Environment & Storage</b></td>
-    <td>
-      <a href="#"><img src="https://skillicons.dev/icons?i=sqlite,vscode" alt="Tools" /></a>
-    </td>
+    <td align="right"><b>Veri & Ortam</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite,vscode" alt="Araçlar" /></td>
   </tr>
 </table>
 
@@ -154,69 +116,61 @@ Rather than building disposable prototypes, I focus on systems that run continuo
 <br/>
 
 <div align="center">
-  <img src="divider.svg" alt="" width="100%" />
+  <img src="./divider.svg" alt="" width="100%" />
 </div>
 
-### `04 // FEATURED WORK & ENGINEERING HIGHLIGHTS`
+### `03 // ÖNE ÇIKAN PROJELER`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Marpel Discord Architecture</h3>
-      <p><b>Production Bot Engine</b></p>
-      <p>Custom-built Discord bot with comprehensive server management features:</p>
+      <h3>🤖 Marpel Discord Mimarisi</h3>
+      <p>Kapsamlı sunucu yönetim motoru:</p>
       <ul>
-        <li>Discord.js v14 slash commands with button & modal confirmations.</li>
-        <li>Automated sanction logging and granular role management workflows.</li>
-        <li>High-uptime runtime designed for community servers.</li>
+        <li>Discord.js v14 slash komutları, modal/buton onayları.</li>
+        <li>Rol yönetimi ve otomatik yaptırım loglama mimarisi.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Stack-Node.js_•_Discord.js_v14-1e293b?style=flat-square&color=6366f1" />
-        <img src="https://img.shields.io/badge/Status-Active-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Durum-Aktif-10b981?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 Ursina 3D Voxel Sandbox</h3>
-      <p><b>Interactive Python Prototype</b></p>
-      <p>A voxel engine proof-of-concept exploring game physics and procedural generation in pure Python:</p>
+      <h3>🐍 Ursina 3D Voksel Motoru</h3>
+      <p>Python ile geliştirilen interaktif 3D blok prototipi:</p>
       <ul>
-        <li>Real-time block placement, destruction, and raycast collision detection.</li>
-        <li>Custom texture coordinates and first-person controller mechanics.</li>
-        <li>Lightweight geometry batching for stable frame rates.</li>
+        <li>Gerçek zamanlı blok yerleştirme/kırma ve raycast çarpışma testi.</li>
+        <li>Hafif geometri işleme ile akıcı FPS performansı.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Stack-Python_3_•_Ursina_Engine-1e293b?style=flat-square&color=38bdf8" />
-        <img src="https://img.shields.io/badge/Status-Completed-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Python_3_•_Ursina-1e293b?style=flat-square&color=38bdf8" />
+        <img src="https://img.shields.io/badge/Durum-Tamamlandı-10b981?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 poseic.xyz Platform</h3>
-      <p><b>Personal Web Hub</b></p>
-      <p>Fast, lightweight personal landing page and project showcase:</p>
+      <h3>🌐 poseic.xyz Platformu</h3>
+      <p>Hafif ve modern kişisel web portalı:</p>
       <ul>
-        <li>Zero framework bloat — 100% vanilla web performance.</li>
-        <li>Dark-first responsive design tailored for mobile and desktop screens.</li>
-        <li>Structured metadata, social previews, and instant load time.</li>
+        <li>Çatı kalabalığı olmadan saf web performansı.</li>
+        <li>Karanlık mod odaklı, mobil uyumlu minimalist tasarım.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Stack-HTML5_•_CSS3_•_JavaScript-1e293b?style=flat-square&color=c084fc" />
-        <a href="https://www.poseic.xyz"><img src="https://img.shields.io/badge/Live-poseic.xyz-38bdf8?style=flat-square" /></a>
+        <img src="https://img.shields.io/badge/Stack-HTML5_•_CSS3_•_JS-1e293b?style=flat-square&color=c084fc" />
+        <a href="https://www.poseic.xyz"><img src="https://img.shields.io/badge/Canlı-poseic.xyz-38bdf8?style=flat-square" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Minecraft Dedicated Server Infrastructure</h3>
-      <p><b>VDS Optimization & Deployment</b></p>
-      <p>High-performance game server architecture hosted on a remote Linux VDS:</p>
+      <h3>🎮 Minecraft Sunucu Altyapısı</h3>
+      <p>VDS üzerinde çalışan optimize edilmiş oyun sunucusu:</p>
       <ul>
-        <li>Aikar's optimized G1GC JVM parameters for consistent 20.0 TPS.</li>
-        <li>Automated crash recovery and service monitoring via systemd.</li>
-        <li>Firewall isolation, anti-DDoS proxy configuration, and SSH key policies.</li>
+        <li>Kararlı 20.0 TPS için Aikar JVM parametreleri.</li>
+        <li>systemd servis izleme, güvenlik duvarı ve otomatik kurtarma.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Stack-Linux_•_PaperMC_•_Bash-1e293b?style=flat-square&color=10b981" />
-        <img src="https://img.shields.io/badge/Status-Production-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Durum-Yayında-10b981?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -228,110 +182,33 @@ Rather than building disposable prototypes, I focus on systems that run continuo
   <img src="./divider.svg" alt="" width="100%" />
 </div>
 
-### `05 // GITHUB TELEMETRY`
+### `04 // GİTHUB İSTATİSTİKLERİ`
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poseicc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06070a&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true" height="160" alt="Poseic's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poseicc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06070a&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true" height="155" alt="Poseic GitHub İstatistikleri" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseicc&layout=compact&theme=tokyonight&hide_border=true&bg_color=06070a&title_color=818cf8&text_color=94a3b8&border_radius=10&langs_count=6" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseicc&layout=compact&theme=tokyonight&hide_border=true&bg_color=06070a&title_color=818cf8&text_color=94a3b8&border_radius=10&langs_count=6" height="155" alt="Kullanılan Diller" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=poseicc&theme=tokyonight-duo&hide_border=true&background=06070a&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=poseicc&theme=tokyonight-duo&hide_border=true&background=06070a&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&border_radius=10" alt="GitHub Günlük Seri" />
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poseicc&bg_color=06070a&color=818cf8&line=38bdf8&point=c084fc&area=true&area_color=0b0e14&hide_border=true&radius=10" width="95%" alt="Poseic's Activity Graph" />
-</p>
+<img src="./divider.svg" alt="" width="100%" />
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./divider.svg" alt="" width="100%" />
-</div>
-
-### `06 // THE ENGINE CYCLE`
-
-<div align="center">
-
-```
-  ┌───────────┐       ┌───────────┐       ┌───────────┐
-  │   LEARN   │ ───>  │   BUILD   │ ───>  │   BREAK   │
-  └───────────┘       └───────────┘       └───────────┘
-        ▲                                       │
-        │                                       ▼
-  ┌───────────┐       ┌───────────┐       ┌───────────┐
-  │  REPEAT   │  <─── │   SHIP    │  <─── │ UNDERSTAND│
-  └───────────┘       └───────────┘       └───────────┘
-```
-
-</div>
-
-> *"Software isn't finished when there is nothing more to add, but when edge cases have been conquered and the system runs unattended without complaint."*
-
-<br/>
-
-<div align="center">
-  <img src="./divider.svg" alt="" width="100%" />
-</div>
-
-### `07 // BEYOND CODE & COMMUNITY`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📺 Content & Knowledge Sharing</h4>
-      <p>Breaking down complex tech and sharing developer journeys:</p>
-      <ul>
-        <li><b>YouTube Shorts:</b> Rapid-fire technical showcases, automation tips, and development logs.</li>
-        <li><b>Dev Communities:</b> Helping fellow young builders navigate Discord.js transitions, Linux commands, and bot architecture.</li>
-        <li><b>Open Discussions:</b> Demystifying server management and modern web stacks.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💬 The Community Hub</h4>
-      <p>Building together in our dedicated developer Discord:</p>
-      <ul>
-        <li><b>Collaboration:</b> Real-time feedback, bot testing, and tech brainstorming.</li>
-        <li><b>Discussions:</b> From Discord API changes to server optimization tricks.</li>
-        <li><b>Direct Access:</b> Say hi and connect directly with me.</li>
-      </ul>
-      <p align="center">
-        <a href="https://discord.gg/sql">
-          <img src="https://img.shields.io/badge/JOIN_COMMUNITY-discord.gg%2Fsql-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="./divider.svg" alt="" width="100%" />
-</div>
-
-<div align="center">
-
-### `08 // INITIATE DIALOGUE`
-
-Whether you want to discuss Discord bot architectures, Linux server tuning, Python scripts, or collaborate on a project — my channels are open.
-
-<br/>
+### `İLETİŞİM & BAĞLANTI`
 
 <p align="center">
   <a href="https://www.poseic.xyz">
-    <img src="https://img.shields.io/badge/🌐_OFFICIAL_WEBSITE-poseic.xyz-06070a?style=for-the-badge&logo=google-chrome&logoColor=38bdf8&labelColor=0b0e14&color=1e293b" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐_WEBSITE-poseic.xyz-06070a?style=for-the-badge&logo=google-chrome&logoColor=38bdf8&labelColor=0b0e14&color=1e293b" alt="Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/sql">
-    <img src="https://img.shields.io/badge/💬_DISCORD_SERVER-discord.gg%2Fsql-06070a?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=0b0e14&color=1e293b" alt="Discord" />
+    <img src="https://img.shields.io/badge/💬_DISCORD-discord.gg%2Fsql-06070a?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=0b0e14&color=1e293b" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/poseicc">
@@ -341,10 +218,10 @@ Whether you want to discuss Discord bot architectures, Linux server tuning, Pyth
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06070a,50:0e1320,100:4f46e5&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06070a,50:0e1320,100:4f46e5&height=90&section=footer" width="100%" alt="" />
 
 <p align="center">
-  <sub>Designed with precision for <b>Poseic</b> • 2026 • Istanbul</sub>
+  <sub>Poseic • 2026</sub>
 </p>
 
 </div>
