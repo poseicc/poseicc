@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06070a" />
+      <stop offset="50%" stop-color="#0b0e14" />
+      <stop offset="100%" stop-color="#050608" />
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="indigoGlow" cx="25%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.18" />
+      <stop offset="60%" stop-color="#4f46e5" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#06070a" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="cyanGlow" cx="80%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.12" />
+      <stop offset="70%" stop-color="#0284c7" stop-opacity="0.02" />
+      <stop offset="100%" stop-color="#06070a" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Text Gradient for POSEIC -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="45%" stop-color="#e0e7ff" />
+      <stop offset="80%" stop-color="#a5b4fc" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+
+    <!-- Subtitle Gradient -->
+    <linearGradient id="subGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1f293d" stroke-width="0.75" stroke-opacity="0.45" />
+      <circle cx="40" cy="0" r="1" fill="#38bdf8" fill-opacity="0.3" />
+    </pattern>
+
+    <!-- Linear Accent Border -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0" />
+      <stop offset="20%" stop-color="#4f46e5" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="80%" stop-color="#6366f1" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulse {
+      0% { opacity: 0.3; }
+      50% { opacity: 0.8; }
+      100% { opacity: 0.3; }
+    }
+    @keyframes scanline {
+      0% { transform: translateY(-100px); }
+      100% { transform: translateY(340px); }
+    }
+    .pulsing-dot {
+      animation: pulse 3s ease-in-out infinite;
+    }
+    .mono-text {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+    }
+    .display-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Roboto', sans-serif;
+    }
+  </style>
+
+  <!-- 1. Background Surface -->
+  <rect width="100%" height="100%" fill="url(#bgGradient)" rx="16" />
+
+  <!-- 2. Grid Layer -->
+  <rect width="100%" height="100%" fill="url(#grid)" rx="16" />
+
+  <!-- 3. Ambient Lighting -->
+  <rect width="100%" height="100%" fill="url(#indigoGlow)" rx="16" />
+  <rect width="100%" height="100%" fill="url(#cyanGlow)" rx="16" />
+
+  <!-- 4. Structural Geometric Nodes & Lines -->
+  <g stroke="#334155" stroke-width="1" stroke-opacity="0.5">
+    <line x1="120" y1="40" x2="1080" y2="40" stroke-dasharray="4 8" />
+    <line x1="120" y1="300" x2="1080" y2="300" stroke-dasharray="4 8" />
+    <line x1="160" y1="40" x2="160" y2="300" stroke-dasharray="2 10" />
+    <line x1="1040" y1="40" x2="1040" y2="300" stroke-dasharray="2 10" />
+  </g>
+
+  <!-- Corner Crosshairs -->
+  <g stroke="#6366f1" stroke-width="1.5" stroke-opacity="0.8">
+    <!-- Top Left -->
+    <path d="M 50 40 L 40 40 L 40 50" fill="none" />
+    <path d="M 40 40 L 45 45" fill="none" />
+    <!-- Top Right -->
+    <path d="M 1150 40 L 1160 40 L 1160 50" fill="none" />
+    <path d="M 1160 40 L 1155 45" fill="none" />
+    <!-- Bottom Left -->
+    <path d="M 50 300 L 40 300 L 40 290" fill="none" />
+    <path d="M 40 300 L 45 295" fill="none" />
+    <!-- Bottom Right -->
+    <path d="M 1150 300 L 1160 300 L 1160 290" fill="none" />
+    <path d="M 1160 300 L 1155 295" fill="none" />
+  </g>
+
+  <!-- Top System Telemetry Bar -->
+  <g class="mono-text" font-size="11" fill="#64748b" letter-spacing="1.5">
+    <text x="60" y="28">SYSTEM: ONLINE</text>
+    <text x="320" y="28" fill="#475569">//</text>
+    <text x="350" y="28">CORE: DISCORD.JS • PYTHON • LINUX</text>
+    <text x="740" y="28" fill="#475569">//</text>
+    <text x="770" y="28">PLATFORM: POSEIC.XYZ</text>
+    <circle cx="1135" cy="24" r="3.5" fill="#10b981" class="pulsing-dot" />
+    <text x="1145" y="28" fill="#10b981" font-weight="600">LIVE</text>
+  </g>
+
+  <!-- Central Brand Typography -->
+  <!-- Monogram Logo Icon (P) in futuristic hexagon -->
+  <g transform="translate(600, 105)">
+    <!-- Ambient Logo Glow -->
+    <circle cx="0" cy="0" r="34" fill="#6366f1" opacity="0.15" filter="url(#subtleGlow)" />
+    
+    <!-- Hexagon Frame -->
+    <polygon points="0,-28 24,-14 24,14 0,28 -24,14 -24,-14" fill="#0d111a" stroke="#4f46e5" stroke-width="1.5" />
+    <polygon points="0,-24 20,-12 20,12 0,24 -20,12 -20,-12" fill="none" stroke="#06b6d4" stroke-width="0.75" stroke-opacity="0.6" />
+    
+    <!-- P Letterform Geometric -->
+    <path d="M -8 -13 L 4 -13 C 8 -13 11 -10 11 -5 C 11 0 8 3 4 3 L -8 3 Z M -8 -13 L -8 14" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Main Title: POSEIC -->
+  <text class="display-text" x="600" y="200" text-anchor="middle" font-size="64" font-weight="900" letter-spacing="14" fill="url(#textGradient)">POSEIC</text>
+
+  <!-- Subtitle: Value Proposition -->
+  <text class="mono-text" x="600" y="235" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="4" fill="url(#subGradient)">
+    YOUNG BUILDER TURNING IDEAS INTO WORKING SYSTEMS
+  </text>
+
+  <!-- Domain Tags / Minimalist Tech Badges -->
+  <g class="mono-text" font-size="11" fill="#94a3b8" letter-spacing="1.5" text-anchor="middle">
+    <text x="600" y="270">
+      <tspan fill="#818cf8">DISCORD.JS</tspan>
+      <tspan fill="#475569"> • </tspan>
+      <tspan fill="#38bdf8">PYTHON SYSTEMS</tspan>
+      <tspan fill="#475569"> • </tspan>
+      <tspan fill="#c084fc">MINECRAFT INFRA</tspan>
+      <tspan fill="#475569"> • </tspan>
+      <tspan fill="#34d399">WEB EXPERIENCES</tspan>
+    </text>
+  </g>
+
+  <!-- Decorative Precision Metric Marks -->
+  <g class="mono-text" font-size="9" fill="#475569" letter-spacing="1">
+    <text x="60" y="322">LOC: 41°00'N 28°58'E</text>
+    <text x="1020" y="322">STATUS: SHIPPING DAILY</text>
+  </g>
+
+  <!-- Bottom Accent Gradient Line -->
+  <rect x="120" y="338" width="960" height="2" fill="url(#borderGrad)" rx="1" />
+</svg>
