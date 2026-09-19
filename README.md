@@ -123,66 +123,6 @@
   <img src="./divider.svg" alt="" width="100%" />
 </div>
 
-### `Yapıyorum`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 poseic.xyz Platformu</h3>
-      <p>Kişisel portföy ve dijital deneyim merkezi:</p>
-      <ul>
-        <li>React ve Next.js ile ultra hızlı, akıcı deneyim.</li>
-        <li>Karanlık mod odaklı, minimalist ve keskin arayüz tasarımı.</li>
-        <li>ISR ve akıllı optimizasyonlarla anında sayfa yüklemesi.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-React_•_Next.js_•_TS-1e293b?style=flat-square&color=6366f1" />
-        <a href="https://www.poseic.xyz"><img src="https://img.shields.io/badge/Canlı-poseic.xyz-38bdf8?style=flat-square" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Marpel Discord Botu</h3>
-      <p>Topluluklar için modüler sunucu yönetim sistemi:</p>
-      <ul>
-        <li>Discord.js v14 slash komut mimarisi ve etkileşimli bileşenler.</li>
-        <li>Otomatik ceza boru hattı ve granular rol yönetim mekanizması.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-Node.js_•_Discord.js_v14-1e293b?style=flat-square&color=818cf8" />
-        <img src="https://img.shields.io/badge/Durum-Aktif-10b981?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐍 Ursina 3D Voksel Prototipi</h3>
-      <p>Python tabanlı interaktif blok dünyası deneyi:</p>
-      <ul>
-        <li>Gerçek zamanlı voksel yerleştirme/yıkım ve raycast fiziği.</li>
-        <li>Hafif geometri işleme ile akıcı FPS performansı.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-Python_3_•_Ursina-1e293b?style=flat-square&color=38bdf8" />
-        <img src="https://img.shields.io/badge/Durum-Tamamlandı-10b981?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Dedicated Minecraft Altyapısı</h3>
-      <p>Linux VDS üzerinde 7/24 kesintisiz sunucu kurulumu:</p>
-      <ul>
-        <li>Aikar JVM parametreleri ile kararlı 20.0 TPS.</li>
-        <li>systemd servis otomasyonu, UFW güvenlik duvarı ve yedekleme.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-Linux_•_PaperMC_•_Bash-1e293b?style=flat-square&color=10b981" />
-        <img src="https://img.shields.io/badge/Durum-Üretimde-10b981?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
   <img src="./divider.svg" alt="" width="100%" />
 </div>
