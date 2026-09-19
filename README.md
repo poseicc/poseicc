@@ -5,14 +5,14 @@
 </h1>
 
 <p>
-  <strong>Fikirleri çalışan sistemlere ve modern web arayüzlerine dönüştüren geliştirici.</strong><br/>
-  <code>Discord.js v14</code> &nbsp;•&nbsp; <code>Python & Otomasyon</code> &nbsp;•&nbsp; <code>Linux Altyapı</code> &nbsp;•&nbsp; <code>Web Mimarisi</code>
+  <strong>ne duyduysan daha fazlası.</strong><br/>
+  <code>React & Next.js</code> &nbsp;•&nbsp; <code>TypeScript & Prisma</code> &nbsp;•&nbsp; <code>Discord.js v14</code> &nbsp;•&nbsp; <code>Linux Altyapı</code>
 </p>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=818CF8&center=true&vCenter=true&repeat=true&width=580&height=36&lines=7%2F24+kesintisiz+%C3%A7al%C4%B1%C5%9Fan+sistemler+%C3%BCretiyorum.;Discord.js+v14+mimarisi+ve+otomasyon.;Python+ile+arka+plan+ara%C3%A7lar%C4%B1+ve+3D+deneyler.;Linux+VDS+y%C3%B6netimi+ve+performans+ayarlar%C4%B1.;Hafif%2C+h%C4%B1zl%C4%B1+ve+modern+web+aray%C3%BCzleri." alt="Poseic Typing Indicator" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=818CF8&center=true&vCenter=true&repeat=true&width=620&height=36&lines=ya+dayan%2C+ya+da+yan.;React+ve+Next.js+ile+h%C4%B1zl%C4%B1%2C+sade+dijital+%C3%BCr%C3%BCnler.;TypeScript+ve+Prisma+ile+u%C3%A7tan+uca+tip+g%C3%BCvenli%C4%9Fi.;Discord.js+v14+mimarisi+ve+otomasyon+sistemleri.;birlikte+pi%C5%9Firelim%2C+birlikte+b%C3%BCy%C3%BCyelim." alt="Poseic Typing Indicator" />
 </a>
 
 <br/>
@@ -23,7 +23,11 @@
   </a>
   &nbsp;
   <a href="https://discord.gg/sql">
-    <img src="https://img.shields.io/badge/DISCORD-discord.gg%2Fsql-090a0f?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=050608&color=1e293b" alt="Discord" />
+    <img src="https://img.shields.io/badge/COMMUNITY-ProjectSQL-090a0f?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=050608&color=1e293b" alt="ProjectSQL" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Poseic">
+    <img src="https://img.shields.io/badge/YOUTUBE-@Poseic-090a0f?style=for-the-badge&logo=youtube&logoColor=ff0000&labelColor=050608&color=1e293b" alt="YouTube" />
   </a>
   &nbsp;
   <a href="https://github.com/poseicc">
@@ -42,42 +46,42 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Discord Mimarisi</h4>
+      <h4>🌐 Modern Web & React Mimarisi</h4>
       <ul>
-        <li>Discord.js v14 etkileşimleri (Slash komutlar, butonlar, modallar).</li>
-        <li>Olay tabanlı (event-driven) durum senkronizasyonu ve loglama.</li>
-        <li>Gerçek zamanlı anti-spam ve otomatik ceza zincirleri.</li>
+        <li><b>React & Next.js:</b> Turbopack, ISR ve akıllı asset optimizasyonu.</li>
+        <li><b>Minimalist Estetik:</b> Hızlı yüklenen, sade ve iyi hissettiren arayüzler.</li>
+        <li><b>Temiz Mimari:</b> Okunabilir, modüler ve ölçeklenebilir kod tabanı.</li>
       </ul>
-      <p><code>Node.js</code> • <code>Discord.js v14</code> • <code>Event Bus</code></p>
+      <p><code>React</code> • <code>Next.js</code> • <code>Tailwind</code> • <code>ISR</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🐍 Python & Otomasyon</h4>
+      <h4>🛡️ Uçtan Uca Tip Güvenliği</h4>
       <ul>
-        <li>Ursina Engine ile 3D voksel blok dünyası prototipi (ışın izleme & fizik).</li>
-        <li>Dosya ve API izleyen arka plan servisleri (daemon workers).</li>
-        <li>Sistem görevleri için asenkron betikler.</li>
+        <li><b>TypeScript & Prisma:</b> Sıfır insan hatası odaklı veri modelleri.</li>
+        <li><b>Modern API Tasarımı:</b> Katı şemalar, doğrulama zincirleri ve güvenli sorgular.</li>
+        <li><b>Veri Yönetimi:</b> İlişkisel veritabanları ve performans optimizasyonları.</li>
       </ul>
-      <p><code>Python 3</code> • <code>Ursina Engine</code> • <code>AsyncIO</code></p>
+      <p><code>TypeScript</code> • <code>Prisma ORM</code> • <code>Clean Code</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🖥️ Linux & Altyapı</h4>
+      <h4>🤖 Discord Sistem Mimarisi</h4>
       <ul>
-        <li>Debian / Ubuntu VDS yapılandırması ve SSH güvenlik sertleştirmesi.</li>
-        <li>systemd servis izleme, log yönetimi ve otomatik yeniden başlatma.</li>
-        <li>PaperMC için optimize edilmiş JVM (Aikar's flags) ve ağ ayarları.</li>
+        <li><b>Discord.js v14:</b> Slash komutlar, dinamik modallar ve buton bileşenleri.</li>
+        <li><b>Güvenlik & Moderasyon:</b> Otomatik ceza zincirleri ve anlık loglama.</li>
+        <li><b>Olay Yönetimi:</b> Event-driven durum senkronizasyonu.</li>
       </ul>
-      <p><code>Linux</code> • <code>Bash</code> • <code>systemd</code> • <code>PaperMC</code></p>
+      <p><code>Node.js</code> • <code>Discord.js v14</code> • <code>Event Bus</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Web & Frontend</h4>
+      <h4>🖥️ Linux & Sunucu Altyapısı</h4>
       <ul>
-        <li>Sıfır gereksiz bağımlılık: Semantik HTML5, modern CSS ve saf JS.</li>
-        <li>Karanlık mod odaklı, duyarlı (responsive) UI bileşenleri.</li>
-        <li>Hızlı yüklenen kişisel platform: <a href="https://www.poseic.xyz">poseic.xyz</a>.</li>
+        <li><b>VDS Yönetimi:</b> Debian/Ubuntu yapılandırması ve SSH güvenlik sertleştirmesi.</li>
+        <li><b>Süreklilik:</b> systemd servis daemons ve otomatik hata kurtarma.</li>
+        <li><b>PaperMC Optimizasyonu:</b> Aikar's flags ile kararlı 20.0 TPS.</li>
       </ul>
-      <p><code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code></p>
+      <p><code>Linux</code> • <code>Bash</code> • <code>systemd</code> • <code>PaperMC</code></p>
     </td>
   </tr>
 </table>
@@ -94,20 +98,20 @@
 
 <table border="0">
   <tr>
-    <td align="right"><b>Diller</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,py,bash,html,css" alt="Diller" /></td>
+    <td align="right"><b>Frontend & UI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="Frontend Stack" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Çatı & Kütüphane</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,discordjs" alt="Runtimes" /></td>
+    <td align="right"><b>Backend & Veri</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,discordjs,prisma,py,sqlite" alt="Backend Stack" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Altyapı & Sistem</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github" alt="Sistemler" /></td>
+    <td align="right"><b>Sistem & Operasyon</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github,bash" alt="Sistemler" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Veri & Ortam</b></td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite,vscode" alt="Araçlar" /></td>
+    <td align="right"><b>Araçlar</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,docker" alt="Araçlar" /></td>
   </tr>
 </table>
 
@@ -124,22 +128,37 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Marpel Discord Mimarisi</h3>
-      <p>Kapsamlı sunucu yönetim motoru:</p>
+      <h3>🌐 poseic.xyz Platformu</h3>
+      <p>Kişisel portföy ve dijital deneyim merkezi:</p>
       <ul>
-        <li>Discord.js v14 slash komutları, modal/buton onayları.</li>
-        <li>Rol yönetimi ve otomatik yaptırım loglama mimarisi.</li>
+        <li>React ve Next.js ile ultra hızlı, akıcı deneyim.</li>
+        <li>Karanlık mod odaklı, minimalist ve keskin arayüz tasarımı.</li>
+        <li>ISR ve akıllı optimizasyonlarla anında sayfa yüklemesi.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Stack-Node.js_•_Discord.js_v14-1e293b?style=flat-square&color=6366f1" />
-        <img src="https://img.shields.io/badge/Durum-Aktif-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-React_•_Next.js_•_TS-1e293b?style=flat-square&color=6366f1" />
+        <a href="https://www.poseic.xyz"><img src="https://img.shields.io/badge/Canlı-poseic.xyz-38bdf8?style=flat-square" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 Ursina 3D Voksel Motoru</h3>
-      <p>Python ile geliştirilen interaktif 3D blok prototipi:</p>
+      <h3>🤖 Marpel Discord Botu</h3>
+      <p>Topluluklar için modüler sunucu yönetim sistemi:</p>
       <ul>
-        <li>Gerçek zamanlı blok yerleştirme/kırma ve raycast çarpışma testi.</li>
+        <li>Discord.js v14 slash komut mimarisi ve etkileşimli bileşenler.</li>
+        <li>Otomatik ceza boru hattı ve granular rol yönetim mekanizması.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Stack-Node.js_•_Discord.js_v14-1e293b?style=flat-square&color=818cf8" />
+        <img src="https://img.shields.io/badge/Durum-Aktif-10b981?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 Ursina 3D Voksel Prototipi</h3>
+      <p>Python tabanlı interaktif blok dünyası deneyi:</p>
+      <ul>
+        <li>Gerçek zamanlı voksel yerleştirme/yıkım ve raycast fiziği.</li>
         <li>Hafif geometri işleme ile akıcı FPS performansı.</li>
       </ul>
       <p>
@@ -147,30 +166,16 @@
         <img src="https://img.shields.io/badge/Durum-Tamamlandı-10b981?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🌐 poseic.xyz Platformu</h3>
-      <p>Hafif ve modern kişisel web portalı:</p>
+      <h3>🎮 Dedicated Minecraft Altyapısı</h3>
+      <p>Linux VDS üzerinde 7/24 kesintisiz sunucu kurulumu:</p>
       <ul>
-        <li>Çatı kalabalığı olmadan saf web performansı.</li>
-        <li>Karanlık mod odaklı, mobil uyumlu minimalist tasarım.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-HTML5_•_CSS3_•_JS-1e293b?style=flat-square&color=c084fc" />
-        <a href="https://www.poseic.xyz"><img src="https://img.shields.io/badge/Canlı-poseic.xyz-38bdf8?style=flat-square" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Minecraft Sunucu Altyapısı</h3>
-      <p>VDS üzerinde çalışan optimize edilmiş oyun sunucusu:</p>
-      <ul>
-        <li>Kararlı 20.0 TPS için Aikar JVM parametreleri.</li>
-        <li>systemd servis izleme, güvenlik duvarı ve otomatik kurtarma.</li>
+        <li>Aikar JVM parametreleri ile kararlı 20.0 TPS.</li>
+        <li>systemd servis otomasyonu, UFW güvenlik duvarı ve yedekleme.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Stack-Linux_•_PaperMC_•_Bash-1e293b?style=flat-square&color=10b981" />
-        <img src="https://img.shields.io/badge/Durum-Yayında-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Durum-Üretimde-10b981?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -200,7 +205,11 @@
 
 <img src="./divider.svg" alt="" width="100%" />
 
-### `İLETİŞİM & BAĞLANTI`
+### `Bağlanıyoruz`
+
+> *"ya dayan, ya da yan."*
+
+<br/>
 
 <p align="center">
   <a href="https://www.poseic.xyz">
@@ -208,11 +217,25 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/sql">
-    <img src="https://img.shields.io/badge/💬_DISCORD-discord.gg%2Fsql-06070a?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=0b0e14&color=1e293b" alt="Discord" />
+    <img src="https://img.shields.io/badge/💬_COMMUNITY-ProjectSQL-06070a?style=for-the-badge&logo=discord&logoColor=818cf8&labelColor=0b0e14&color=1e293b" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/poseicc">
-    <img src="https://img.shields.io/badge/GITHUB-poseicc-06070a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0b0e14&color=1e293b" alt="GitHub" />
+  <a href="https://discord.com/users/988829353297195089">
+    <img src="https://img.shields.io/badge/DM-Discord_Direkt-06070a?style=for-the-badge&logo=discord&logoColor=10b981&labelColor=0b0e14&color=1e293b" alt="Discord DM" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@Poseic">
+    <img src="https://img.shields.io/badge/YOUTUBE-@Poseic-06070a?style=for-the-badge&logo=youtube&logoColor=ff0000&labelColor=0b0e14&color=1e293b" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/poseicc/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@poseicc-06070a?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0b0e14&color=1e293b" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:poseicc@gmail.com">
+    <img src="https://img.shields.io/badge/E--POSTA-poseicc@gmail.com-06070a?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b0e14&color=1e293b" alt="Email" />
   </a>
 </p>
 
