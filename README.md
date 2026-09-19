@@ -10,13 +10,13 @@
 </p>
 
 <p>
-  <em>fikirleri çalışan sistemlere dönüştürüyorum.</em>
+  <em>ne duyduysan daha fazlası.</em>
 </p>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=818CF8&center=true&vCenter=true&repeat=true&width=500&height=32&lines=React+%26+Next.js;TypeScript+%2F+Prisma;Discord.js+v14;Linux+%26+Infrastructure;Building+things+that+actually+ship." alt="Poseic Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=818CF8&center=true&vCenter=true&repeat=true&width=520&height=32&lines=React+%26+Next.js;TypeScript+%2F+Prisma;Discord.js+v14;Linux+%26+Altyap%C4%B1;Building+things+that+actually+ship." alt="Poseic Stack" />
 </a>
 
 <br/><br/>
@@ -37,7 +37,7 @@
 
 <br/>
 
-<img src="./divider.svg" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06070a,25:1e1b4b,50:6366f1,75:1e1b4b,100:06070a&height=2&section=header" width="100%" alt="" />
 
 </div>
 
@@ -89,7 +89,7 @@
 <br/>
 
 <div align="center">
-  <img src="./divider.svg" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06070a,25:1e1b4b,50:6366f1,75:1e1b4b,100:06070a&height=2&section=header" width="100%" alt="" />
 </div>
 
 ### `Biliyorum`
@@ -120,12 +120,18 @@
 <br/>
 
 <div align="center">
-  <img src="./divider.svg" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06070a,25:1e1b4b,50:6366f1,75:1e1b4b,100:06070a&height=2&section=header" width="100%" alt="" />
 </div>
 
 ### `Tutturuyorum`
 
 <div align="center">
+
+<p align="center">
+  <img src="https://github-readme-3d-contrib.vercel.app/profile-gitblock.svg?username=poseicc" alt="3D Voksel Katkı Takvimi" width="95%" />
+</p>
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poseicc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06070a&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
@@ -142,7 +148,7 @@
 <br/>
 
 <div align="center">
-  <img src="./divider.svg" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06070a,25:1e1b4b,50:6366f1,75:1e1b4b,100:06070a&height=2&section=header" width="100%" alt="" />
 </div>
 
 <div align="center">
