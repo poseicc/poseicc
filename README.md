@@ -37,7 +37,7 @@
 
 </div>
 
-### `01 // SİSTEM & MİMARİ ODAK`
+### `Pişiriyorum`
 
 <table>
   <tr>
@@ -88,7 +88,7 @@
   <img src="./divider.svg" alt="" width="100%" />
 </div>
 
-### `02 // TEKNOLOJİ YIĞINI`
+### `Biliyorum`
 
 <div align="center">
 
@@ -119,7 +119,7 @@
   <img src="./divider.svg" alt="" width="100%" />
 </div>
 
-### `03 // ÖNE ÇIKAN PROJELER`
+### `Yapıyorum`
 
 <table>
   <tr>
@@ -182,7 +182,7 @@
   <img src="./divider.svg" alt="" width="100%" />
 </div>
 
-### `04 // GİTHUB İSTATİSTİKLERİ`
+### `Tutturuyorum`
 
 <div align="center">
 
